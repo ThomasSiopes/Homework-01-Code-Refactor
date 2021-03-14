@@ -1,3 +1,9 @@
+# Thomas's Additions
+
+Link to site: https://thomassiopes.github.io/Homework-01-Code-Refactor/
+Description: This project is an exercise of changing generic HTML elements to semantic elements and cleaning the clunkiness of the accompanying CSS code.
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Your Task
